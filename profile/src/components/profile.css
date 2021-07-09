@@ -1,0 +1,225 @@
+@import url("https://fonts.googleapis.com/css?family=Zeyada");
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    
+  }
+  .main{
+    height: 100vh;
+    width: 100vh;
+  }
+  .header{
+   height:86px;
+   display: flex;
+   justify-content:row ;
+   
+  }
+
+  .ravimg {
+    font-family: "Zeyada";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 51px;
+    line-height: 75px;
+    color: #0126a8;
+    padding-top: 13px;
+  }
+
+  .poly1{
+    padding-top:17px ;
+    padding-left: 135px;
+    
+    color: #0126a8;
+    height: 55px;
+    
+    
+  }
+  .grid{
+    width: 30%;
+    padding-top:24px ;
+    padding-left: 20px; 
+    padding-right: 111px;
+    padding-bottom:50px ;
+  }
+  
+  .profilebutton{
+    Padding: 12px 24px 12px 24px;
+    background-color: #0126A8;
+    border-radius:10px ;
+  }
+  .home{
+    padding: 36px 54px 20px 900px;
+  }
+  
+  .border{
+    background-color:#00D8AC80; 
+    height:171px;
+    width:1440px;
+  }
+  
+  .col2{
+    height: 45px;
+    width: 144px;
+    left: 1185px;
+    top: 297px;
+    border-radius: 5px;
+  
+  }
+  .pic{
+    position: absolute;
+    padding-top:0px ;
+    padding-bottom: 30px;
+    padding-left:135px ;
+    margin-top:-62px;
+  }
+  
+  #hi{
+    background-color:  #0126A8;
+    text-align: center;
+    color:white ;
+    padding:10px 44px 9px 44px ;
+    border-radius: 5px;
+  }
+
+  .col2{
+    padding: 100px 111px 10px 1220px;
+  }
+  
+  .centre1{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .centre2{
+    padding-left:50px;
+    
+  }
+  
+  .logo1{
+    
+    width: 50%;
+    
+
+  }
+  .linkedin{
+    padding-top:35px ;
+     padding-bottom: 553px ;
+     padding-left: 20px;
+     
+  }
+  
+  .twitter{
+    padding-top:35px;  
+    padding-left: 135px;
+    padding-bottom: 553px ;
+  }
+  
+  .bio{
+    width: 60%;
+    padding-left: 100px;
+
+  }
+  
+  .info{
+    display: flex;
+    align-items: row;
+  }
+  
+  .designbutton{
+    border: 2px solid #00BCC8;
+    border-radius: 10px;
+    padding: 9px 10px 8px 10px;
+    display: inline-flex;
+    justify-items:center;
+  }
+  
+  .upfooter{
+    height: 272px;
+    width: 1440px;
+    left: 0px;
+    top: 1291px;
+    border-radius: 0px;
+  
+    background-color: #E8D5B5;
+    display: flex;
+    justify-content: space-around; 
+    
+  }
+  
+  
+  #rightup{
+  height: 44px;
+  width: 368px;
+  left: 917px;
+  top: 103px;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  }
+  
+  #leftup{
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+  
+  }
+  
+  .about{
+    border:none;
+  }
+  .rav{
+    padding-top: 25px;
+  }
+  
+  .getstart{
+   padding-top:103px ;
+  
+  }
+  
+  
+  #box{
+    padding: 14px 200px 13px 23px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    
+  }
+  #button{
+   
+    color:white ;
+    background-color: #0126A8;
+    padding: 15px 16px 14px 18px;
+    
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  
+  .foot{
+    font-family: Avenir;
+    font-size: 18px;
+    font-style: normal;
+    color: #0126A8;
+    padding-bottom:30px ; 
+    padding-left: 12px;
+   
+  
+  }
+
+  
+  
+  .clogo{
+    padding-top: 30px;
+    padding-bottom:30px ;
+    padding-left: 135px;
+  
+  }
+  
