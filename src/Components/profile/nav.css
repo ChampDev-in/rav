@@ -113,9 +113,9 @@
   /* margin: 50% -117px; */
   /* margin: 50%; */
 }
-.dropdownprofile:hover .profilebutton {
-  /* background-color: yellow; */
-}
+/* .dropdownprofile:hover .profilebutton { */
+/* background-color: yellow; */
+/* } */
 .dropdownprofile {
   position: relative;
   display: inline-block;
